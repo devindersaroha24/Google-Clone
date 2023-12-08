@@ -7,7 +7,7 @@ The Google Clone project is a website designed to resemble the Google search eng
 
 ![App Screenshot](https://i.ibb.co/sF6tTbD/Screenshot-120.png)
 
-https://jaydipsinh-googleclone.netlify.app
+
 
 ## Authors
 
