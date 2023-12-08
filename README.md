@@ -11,15 +11,14 @@ https://jaydipsinh-googleclone.netlify.app
 
 ## Authors
 
-- [@jaydipsinh13](https://www.github.com/jaydipsinh13)
+- [@devindersaroha24](https://github.com/devindersaroha24)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at jaydipsinhsolanki9297@gmail.com
+If you have any feedback, please reach out to us at html12038@gmail.com
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydipsinhsolanki/)
+
 
 
 
